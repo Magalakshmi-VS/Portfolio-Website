@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Sentimental Analysis using Machine Learning",
+    "desc": "Built a sentiment analysis app in Python using ML, DL, and NLP techniques to classify text as positive, negative, or neutral for reviews, feedback, and social media.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/magalakshmi-v-s-16371a250",
+      "code": "https://github.com/Magalakshmi-VS"
+    }
+  },
+  {
+    "name": "Dine with Maga",
+    "desc": "Developed a full-stack food reservation web app with React.js, Node.js, Express.js, and MongoDB, enabling table booking, menu/review access, and real-time chef interaction",
+    "image": "sppuprepandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/magalakshmi-v-s-16371a250",
+      "code": "https://github.com/Magalakshmi-VS"
+    }
+  },
+  {
+    "name": "ProHire",
+    "desc": "Built a scalable MERN-stack Job Portal with role-based access, enabling secure job search, applications, and recruiter–candidate interactions.",
+    "image": "newsboxandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/magalakshmi-v-s-16371a250",
+      "code": "https://github.com/Magalakshmi-VS"
+    }
+  },
+  {
+    "name": "AR/VR Car Animation",
+    "desc": "Created an interactive AR/VR car animation game in Unity with ARKit, 3D modeling, voice guidance, and physics for immersive automotive training.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/magalakshmi-v-s-16371a250",
+      "code": "https://github.com/Magalakshmi-VS"
+    }
+  },
+
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Magalakshmi-VS"
+    }
+  }
+]
